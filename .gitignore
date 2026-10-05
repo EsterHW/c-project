@@ -1,1 +1,21 @@
-temp
+temp/
+
+# תוצרי קומפילציה של .NET
+[Bb]in/
+[Oo]bj/
+
+# הגדרות מקומיות של Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# מטמוני אינדוקס של Visual Studio / Copilot
+*.vsidx
+*.v9.bin
+CopilotIndices/
+
+# קבצי ניפוי ותוצאות בדיקה
+[Tt]est[Rr]esult*/
+*.log

@@ -1,1 +1,56 @@
-temp
+# Build outputs
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rtifacts/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Test results
+[Tt]est[Rr]esult*/
+*.trx
+
+# Publish output
+publish/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Database files (uncomment if generated locally)
+# *.mdf
+# *.ldf

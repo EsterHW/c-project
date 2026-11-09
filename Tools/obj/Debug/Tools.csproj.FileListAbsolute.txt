@@ -1,0 +1,11 @@
+Z:\יד תשפז\בירנבוים הדסה\c#\Tools\bin\Debug\Tools.deps.json
+Z:\יד תשפז\בירנבוים הדסה\c#\Tools\bin\Debug\Tools.dll
+Z:\יד תשפז\בירנבוים הדסה\c#\Tools\bin\Debug\Tools.pdb
+Z:\יד תשפז\בירנבוים הדסה\c#\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+Z:\יד תשפז\בירנבוים הדסה\c#\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+Z:\יד תשפז\בירנבוים הדסה\c#\Tools\obj\Debug\Tools.AssemblyInfo.cs
+Z:\יד תשפז\בירנבוים הדסה\c#\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+Z:\יד תשפז\בירנבוים הדסה\c#\Tools\obj\Debug\Tools.dll
+Z:\יד תשפז\בירנבוים הדסה\c#\Tools\obj\Debug\refint\Tools.dll
+Z:\יד תשפז\בירנבוים הדסה\c#\Tools\obj\Debug\Tools.pdb
+Z:\יד תשפז\בירנבוים הדסה\c#\Tools\obj\Debug\ref\Tools.dll

@@ -1,0 +1,48 @@
+E:\‏‏DotNet2027_8324_7574 - עותק\bin\DalTest.exe
+E:\‏‏DotNet2027_8324_7574 - עותק\bin\DalTest.deps.json
+E:\‏‏DotNet2027_8324_7574 - עותק\bin\DalTest.runtimeconfig.json
+E:\‏‏DotNet2027_8324_7574 - עותק\bin\DalTest.dll
+E:\‏‏DotNet2027_8324_7574 - עותק\bin\DalTest.pdb
+E:\‏‏DotNet2027_8324_7574 - עותק\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+E:\‏‏DotNet2027_8324_7574 - עותק\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\‏‏DotNet2027_8324_7574 - עותק\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+E:\‏‏DotNet2027_8324_7574 - עותק\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+E:\‏‏DotNet2027_8324_7574 - עותק\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+E:\‏‏DotNet2027_8324_7574 - עותק\DalTest\obj\Debug\DalTest.csproj.Up2Date
+E:\‏‏DotNet2027_8324_7574 - עותק\DalTest\obj\Debug\DalTest.dll
+E:\‏‏DotNet2027_8324_7574 - עותק\DalTest\obj\Debug\refint\DalTest.dll
+E:\‏‏DotNet2027_8324_7574 - עותק\DalTest\obj\Debug\DalTest.pdb
+E:\‏‏DotNet2027_8324_7574 - עותק\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+E:\‏‏DotNet2027_8324_7574 - עותק\DalTest\obj\Debug\ref\DalTest.dll
+Z:\יד תשפז\דוידוביץ הניה אסתר\‏‏DotNet2027_8324_7574 - עותק\bin\DalTest.exe
+Z:\יד תשפז\דוידוביץ הניה אסתר\‏‏DotNet2027_8324_7574 - עותק\bin\DalTest.deps.json
+Z:\יד תשפז\דוידוביץ הניה אסתר\‏‏DotNet2027_8324_7574 - עותק\bin\DalTest.runtimeconfig.json
+Z:\יד תשפז\דוידוביץ הניה אסתר\‏‏DotNet2027_8324_7574 - עותק\bin\DalTest.dll
+Z:\יד תשפז\דוידוביץ הניה אסתר\‏‏DotNet2027_8324_7574 - עותק\bin\DalTest.pdb
+Z:\יד תשפז\דוידוביץ הניה אסתר\‏‏DotNet2027_8324_7574 - עותק\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+Z:\יד תשפז\דוידוביץ הניה אסתר\‏‏DotNet2027_8324_7574 - עותק\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+Z:\יד תשפז\דוידוביץ הניה אסתר\‏‏DotNet2027_8324_7574 - עותק\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+Z:\יד תשפז\דוידוביץ הניה אסתר\‏‏DotNet2027_8324_7574 - עותק\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+Z:\יד תשפז\דוידוביץ הניה אסתר\‏‏DotNet2027_8324_7574 - עותק\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+Z:\יד תשפז\דוידוביץ הניה אסתר\‏‏DotNet2027_8324_7574 - עותק\DalTest\obj\Debug\DalTest.csproj.Up2Date
+Z:\יד תשפז\דוידוביץ הניה אסתר\‏‏DotNet2027_8324_7574 - עותק\DalTest\obj\Debug\DalTest.dll
+Z:\יד תשפז\דוידוביץ הניה אסתר\‏‏DotNet2027_8324_7574 - עותק\DalTest\obj\Debug\refint\DalTest.dll
+Z:\יד תשפז\דוידוביץ הניה אסתר\‏‏DotNet2027_8324_7574 - עותק\DalTest\obj\Debug\DalTest.pdb
+Z:\יד תשפז\דוידוביץ הניה אסתר\‏‏DotNet2027_8324_7574 - עותק\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+Z:\יד תשפז\דוידוביץ הניה אסתר\‏‏DotNet2027_8324_7574 - עותק\DalTest\obj\Debug\ref\DalTest.dll
+Z:\יד תשפז\בירנבוים הדסה\c#\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+Z:\יד תשפז\בירנבוים הדסה\c#\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+Z:\יד תשפז\בירנבוים הדסה\c#\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+Z:\יד תשפז\בירנבוים הדסה\c#\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+Z:\יד תשפז\בירנבוים הדסה\c#\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+Z:\יד תשפז\בירנבוים הדסה\c#\DalTest\obj\Debug\DalTest.dll
+Z:\יד תשפז\בירנבוים הדסה\c#\DalTest\obj\Debug\refint\DalTest.dll
+Z:\יד תשפז\בירנבוים הדסה\c#\DalTest\obj\Debug\DalTest.pdb
+Z:\יד תשפז\בירנבוים הדסה\c#\bin\DalTest.exe
+Z:\יד תשפז\בירנבוים הדסה\c#\bin\DalTest.deps.json
+Z:\יד תשפז\בירנבוים הדסה\c#\bin\DalTest.runtimeconfig.json
+Z:\יד תשפז\בירנבוים הדסה\c#\bin\DalTest.dll
+Z:\יד תשפז\בירנבוים הדסה\c#\bin\DalTest.pdb
+Z:\יד תשפז\בירנבוים הדסה\c#\DalTest\obj\Debug\DalTest.csproj.Up2Date
+Z:\יד תשפז\בירנבוים הדסה\c#\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+Z:\יד תשפז\בירנבוים הדסה\c#\DalTest\obj\Debug\ref\DalTest.dll

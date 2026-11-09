@@ -1,0 +1,42 @@
+E:\‏‏DotNet2027_8324_7574 - עותק\bin\DalList.deps.json
+E:\‏‏DotNet2027_8324_7574 - עותק\bin\DalList.dll
+E:\‏‏DotNet2027_8324_7574 - עותק\bin\DalList.pdb
+E:\‏‏DotNet2027_8324_7574 - עותק\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+E:\‏‏DotNet2027_8324_7574 - עותק\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+E:\‏‏DotNet2027_8324_7574 - עותק\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+E:\‏‏DotNet2027_8324_7574 - עותק\DalList\obj\Debug\DalList.AssemblyInfo.cs
+E:\‏‏DotNet2027_8324_7574 - עותק\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+E:\‏‏DotNet2027_8324_7574 - עותק\DalList\obj\Debug\DalList.csproj.Up2Date
+E:\‏‏DotNet2027_8324_7574 - עותק\DalList\obj\Debug\DalList.dll
+E:\‏‏DotNet2027_8324_7574 - עותק\DalList\obj\Debug\refint\DalList.dll
+E:\‏‏DotNet2027_8324_7574 - עותק\DalList\obj\Debug\DalList.pdb
+E:\‏‏DotNet2027_8324_7574 - עותק\DalList\obj\Debug\ref\DalList.dll
+E:\bin\DalList.deps.json
+E:\bin\DalList.dll
+E:\bin\DalList.pdb
+Z:\יד תשפז\דוידוביץ הניה אסתר\‏‏DotNet2027_8324_7574 - עותק\bin\DalList.deps.json
+Z:\יד תשפז\דוידוביץ הניה אסתר\‏‏DotNet2027_8324_7574 - עותק\bin\DalList.dll
+Z:\יד תשפז\דוידוביץ הניה אסתר\‏‏DotNet2027_8324_7574 - עותק\bin\DalList.pdb
+Z:\יד תשפז\דוידוביץ הניה אסתר\‏‏DotNet2027_8324_7574 - עותק\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+Z:\יד תשפז\דוידוביץ הניה אסתר\‏‏DotNet2027_8324_7574 - עותק\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+Z:\יד תשפז\דוידוביץ הניה אסתר\‏‏DotNet2027_8324_7574 - עותק\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+Z:\יד תשפז\דוידוביץ הניה אסתר\‏‏DotNet2027_8324_7574 - עותק\DalList\obj\Debug\DalList.AssemblyInfo.cs
+Z:\יד תשפז\דוידוביץ הניה אסתר\‏‏DotNet2027_8324_7574 - עותק\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+Z:\יד תשפז\דוידוביץ הניה אסתר\‏‏DotNet2027_8324_7574 - עותק\DalList\obj\Debug\DalList.csproj.Up2Date
+Z:\יד תשפז\דוידוביץ הניה אסתר\‏‏DotNet2027_8324_7574 - עותק\DalList\obj\Debug\DalList.dll
+Z:\יד תשפז\דוידוביץ הניה אסתר\‏‏DotNet2027_8324_7574 - עותק\DalList\obj\Debug\refint\DalList.dll
+Z:\יד תשפז\דוידוביץ הניה אסתר\‏‏DotNet2027_8324_7574 - עותק\DalList\obj\Debug\DalList.pdb
+Z:\יד תשפז\דוידוביץ הניה אסתר\‏‏DotNet2027_8324_7574 - עותק\DalList\obj\Debug\ref\DalList.dll
+Z:\יד תשפז\בירנבוים הדסה\c#\bin\DalList.deps.json
+Z:\יד תשפז\בירנבוים הדסה\c#\bin\DalList.dll
+Z:\יד תשפז\בירנבוים הדסה\c#\bin\DalList.pdb
+Z:\יד תשפז\בירנבוים הדסה\c#\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+Z:\יד תשפז\בירנבוים הדסה\c#\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+Z:\יד תשפז\בירנבוים הדסה\c#\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+Z:\יד תשפז\בירנבוים הדסה\c#\DalList\obj\Debug\DalList.AssemblyInfo.cs
+Z:\יד תשפז\בירנבוים הדסה\c#\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+Z:\יד תשפז\בירנבוים הדסה\c#\DalList\obj\Debug\DalList.csproj.Up2Date
+Z:\יד תשפז\בירנבוים הדסה\c#\DalList\obj\Debug\DalList.dll
+Z:\יד תשפז\בירנבוים הדסה\c#\DalList\obj\Debug\refint\DalList.dll
+Z:\יד תשפז\בירנבוים הדסה\c#\DalList\obj\Debug\DalList.pdb
+Z:\יד תשפז\בירנבוים הדסה\c#\DalList\obj\Debug\ref\DalList.dll

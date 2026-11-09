@@ -1,0 +1,865 @@
+09/11/2026 16:50:51	Dal.TestImplementation.Create:	start: Test { Id = 0, Subject = Grammar, Date = 01/01/2026 00:00:00, CountQuestions = 4 }
+09/11/2026 16:50:51	Dal.TestImplementation.Create:	end: new ID=100
+09/11/2026 16:50:51	Dal.TestImplementation.Create:	start: Test { Id = 0, Subject = English, Date = 08/01/2026 00:00:00, CountQuestions = 4 }
+09/11/2026 16:50:51	Dal.TestImplementation.Create:	end: new ID=101
+09/11/2026 16:50:51	Dal.TestImplementation.Create:	start: Test { Id = 0, Subject = Math, Date = 15/01/2026 00:00:00, CountQuestions = 4 }
+09/11/2026 16:50:51	Dal.TestImplementation.Create:	end: new ID=102
+09/11/2026 16:50:51	Dal.TestImplementation.Create:	start: Test { Id = 0, Subject = Geography, Date = 22/01/2026 00:00:00, CountQuestions = 4 }
+09/11/2026 16:50:51	Dal.TestImplementation.Create:	end: new ID=103
+09/11/2026 16:50:51	Dal.TestImplementation.Create:	start: Test { Id = 0, Subject = Grammar, Date = 29/01/2026 00:00:00, CountQuestions = 4 }
+09/11/2026 16:50:51	Dal.TestImplementation.Create:	end: new ID=104
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Grammar, Content = Question 1, CorrectAnswerId = 0 }
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	end: new ID=100
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = English, Content = Question 2, CorrectAnswerId = 0 }
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	end: new ID=101
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Math, Content = Question 3, CorrectAnswerId = 0 }
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	end: new ID=102
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Geography, Content = Question 4, CorrectAnswerId = 0 }
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	end: new ID=103
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Grammar, Content = Question 5, CorrectAnswerId = 0 }
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	end: new ID=104
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = English, Content = Question 6, CorrectAnswerId = 0 }
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	end: new ID=105
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Math, Content = Question 7, CorrectAnswerId = 0 }
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	end: new ID=106
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Geography, Content = Question 8, CorrectAnswerId = 0 }
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	end: new ID=107
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Grammar, Content = Question 9, CorrectAnswerId = 0 }
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	end: new ID=108
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = English, Content = Question 10, CorrectAnswerId = 0 }
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	end: new ID=109
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Math, Content = Question 11, CorrectAnswerId = 0 }
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	end: new ID=110
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Geography, Content = Question 12, CorrectAnswerId = 0 }
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	end: new ID=111
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Grammar, Content = Question 13, CorrectAnswerId = 0 }
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	end: new ID=112
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = English, Content = Question 14, CorrectAnswerId = 0 }
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	end: new ID=113
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Math, Content = Question 15, CorrectAnswerId = 0 }
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	end: new ID=114
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Geography, Content = Question 16, CorrectAnswerId = 0 }
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	end: new ID=115
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Grammar, Content = Question 17, CorrectAnswerId = 0 }
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	end: new ID=116
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = English, Content = Question 18, CorrectAnswerId = 0 }
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	end: new ID=117
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Math, Content = Question 19, CorrectAnswerId = 0 }
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	end: new ID=118
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Geography, Content = Question 20, CorrectAnswerId = 0 }
+09/11/2026 16:50:51	Dal.QuestionImplementation.Create:	end: new ID=119
+09/11/2026 16:50:51	Dal.QuestionImplementation.ReadAll:	start
+09/11/2026 16:50:51	Dal.QuestionImplementation.ReadAll:	end: count=20
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 100, Content = Answer 1 for question 100 }
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	end: new ID=100
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 100, Content = Answer 2 for question 100 }
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	end: new ID=101
+09/11/2026 16:50:51	Dal.QuestionImplementation.Update:	start: Question { Id = 100, Subject = Grammar, Content = Question 1, CorrectAnswerId = 100 }
+09/11/2026 16:50:51	Dal.QuestionImplementation.Read:	start: id=100
+09/11/2026 16:50:51	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:50:51	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 101, Content = Answer 1 for question 101 }
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	end: new ID=102
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 101, Content = Answer 2 for question 101 }
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	end: new ID=103
+09/11/2026 16:50:51	Dal.QuestionImplementation.Update:	start: Question { Id = 101, Subject = English, Content = Question 2, CorrectAnswerId = 102 }
+09/11/2026 16:50:51	Dal.QuestionImplementation.Read:	start: id=101
+09/11/2026 16:50:51	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:50:51	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 102, Content = Answer 1 for question 102 }
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	end: new ID=104
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 102, Content = Answer 2 for question 102 }
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	end: new ID=105
+09/11/2026 16:50:51	Dal.QuestionImplementation.Update:	start: Question { Id = 102, Subject = Math, Content = Question 3, CorrectAnswerId = 104 }
+09/11/2026 16:50:51	Dal.QuestionImplementation.Read:	start: id=102
+09/11/2026 16:50:51	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:50:51	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 103, Content = Answer 1 for question 103 }
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	end: new ID=106
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 103, Content = Answer 2 for question 103 }
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	end: new ID=107
+09/11/2026 16:50:51	Dal.QuestionImplementation.Update:	start: Question { Id = 103, Subject = Geography, Content = Question 4, CorrectAnswerId = 106 }
+09/11/2026 16:50:51	Dal.QuestionImplementation.Read:	start: id=103
+09/11/2026 16:50:51	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:50:51	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 104, Content = Answer 1 for question 104 }
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	end: new ID=108
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 104, Content = Answer 2 for question 104 }
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	end: new ID=109
+09/11/2026 16:50:51	Dal.QuestionImplementation.Update:	start: Question { Id = 104, Subject = Grammar, Content = Question 5, CorrectAnswerId = 108 }
+09/11/2026 16:50:51	Dal.QuestionImplementation.Read:	start: id=104
+09/11/2026 16:50:51	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:50:51	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 105, Content = Answer 1 for question 105 }
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	end: new ID=110
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 105, Content = Answer 2 for question 105 }
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	end: new ID=111
+09/11/2026 16:50:51	Dal.QuestionImplementation.Update:	start: Question { Id = 105, Subject = English, Content = Question 6, CorrectAnswerId = 110 }
+09/11/2026 16:50:51	Dal.QuestionImplementation.Read:	start: id=105
+09/11/2026 16:50:51	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:50:51	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 106, Content = Answer 1 for question 106 }
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	end: new ID=112
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 106, Content = Answer 2 for question 106 }
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	end: new ID=113
+09/11/2026 16:50:51	Dal.QuestionImplementation.Update:	start: Question { Id = 106, Subject = Math, Content = Question 7, CorrectAnswerId = 112 }
+09/11/2026 16:50:51	Dal.QuestionImplementation.Read:	start: id=106
+09/11/2026 16:50:51	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:50:51	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 107, Content = Answer 1 for question 107 }
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	end: new ID=114
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 107, Content = Answer 2 for question 107 }
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	end: new ID=115
+09/11/2026 16:50:51	Dal.QuestionImplementation.Update:	start: Question { Id = 107, Subject = Geography, Content = Question 8, CorrectAnswerId = 114 }
+09/11/2026 16:50:51	Dal.QuestionImplementation.Read:	start: id=107
+09/11/2026 16:50:51	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:50:51	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 108, Content = Answer 1 for question 108 }
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	end: new ID=116
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 108, Content = Answer 2 for question 108 }
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	end: new ID=117
+09/11/2026 16:50:51	Dal.QuestionImplementation.Update:	start: Question { Id = 108, Subject = Grammar, Content = Question 9, CorrectAnswerId = 116 }
+09/11/2026 16:50:51	Dal.QuestionImplementation.Read:	start: id=108
+09/11/2026 16:50:51	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:50:51	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 109, Content = Answer 1 for question 109 }
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	end: new ID=118
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 109, Content = Answer 2 for question 109 }
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	end: new ID=119
+09/11/2026 16:50:51	Dal.QuestionImplementation.Update:	start: Question { Id = 109, Subject = English, Content = Question 10, CorrectAnswerId = 118 }
+09/11/2026 16:50:51	Dal.QuestionImplementation.Read:	start: id=109
+09/11/2026 16:50:51	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:50:51	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 110, Content = Answer 1 for question 110 }
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	end: new ID=120
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 110, Content = Answer 2 for question 110 }
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	end: new ID=121
+09/11/2026 16:50:51	Dal.QuestionImplementation.Update:	start: Question { Id = 110, Subject = Math, Content = Question 11, CorrectAnswerId = 120 }
+09/11/2026 16:50:51	Dal.QuestionImplementation.Read:	start: id=110
+09/11/2026 16:50:51	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:50:51	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 111, Content = Answer 1 for question 111 }
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	end: new ID=122
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 111, Content = Answer 2 for question 111 }
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	end: new ID=123
+09/11/2026 16:50:51	Dal.QuestionImplementation.Update:	start: Question { Id = 111, Subject = Geography, Content = Question 12, CorrectAnswerId = 122 }
+09/11/2026 16:50:51	Dal.QuestionImplementation.Read:	start: id=111
+09/11/2026 16:50:51	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:50:51	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 112, Content = Answer 1 for question 112 }
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	end: new ID=124
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 112, Content = Answer 2 for question 112 }
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	end: new ID=125
+09/11/2026 16:50:51	Dal.QuestionImplementation.Update:	start: Question { Id = 112, Subject = Grammar, Content = Question 13, CorrectAnswerId = 124 }
+09/11/2026 16:50:51	Dal.QuestionImplementation.Read:	start: id=112
+09/11/2026 16:50:51	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:50:51	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 113, Content = Answer 1 for question 113 }
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	end: new ID=126
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 113, Content = Answer 2 for question 113 }
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	end: new ID=127
+09/11/2026 16:50:51	Dal.QuestionImplementation.Update:	start: Question { Id = 113, Subject = English, Content = Question 14, CorrectAnswerId = 126 }
+09/11/2026 16:50:51	Dal.QuestionImplementation.Read:	start: id=113
+09/11/2026 16:50:51	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:50:51	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 114, Content = Answer 1 for question 114 }
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	end: new ID=128
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 114, Content = Answer 2 for question 114 }
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	end: new ID=129
+09/11/2026 16:50:51	Dal.QuestionImplementation.Update:	start: Question { Id = 114, Subject = Math, Content = Question 15, CorrectAnswerId = 128 }
+09/11/2026 16:50:51	Dal.QuestionImplementation.Read:	start: id=114
+09/11/2026 16:50:51	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:50:51	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 115, Content = Answer 1 for question 115 }
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	end: new ID=130
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 115, Content = Answer 2 for question 115 }
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	end: new ID=131
+09/11/2026 16:50:51	Dal.QuestionImplementation.Update:	start: Question { Id = 115, Subject = Geography, Content = Question 16, CorrectAnswerId = 130 }
+09/11/2026 16:50:51	Dal.QuestionImplementation.Read:	start: id=115
+09/11/2026 16:50:51	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:50:51	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 116, Content = Answer 1 for question 116 }
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	end: new ID=132
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 116, Content = Answer 2 for question 116 }
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	end: new ID=133
+09/11/2026 16:50:51	Dal.QuestionImplementation.Update:	start: Question { Id = 116, Subject = Grammar, Content = Question 17, CorrectAnswerId = 132 }
+09/11/2026 16:50:51	Dal.QuestionImplementation.Read:	start: id=116
+09/11/2026 16:50:51	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:50:51	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 117, Content = Answer 1 for question 117 }
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	end: new ID=134
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 117, Content = Answer 2 for question 117 }
+09/11/2026 16:50:51	Dal.AnswerImplementation.Create:	end: new ID=135
+09/11/2026 16:50:51	Dal.QuestionImplementation.Update:	start: Question { Id = 117, Subject = English, Content = Question 18, CorrectAnswerId = 134 }
+09/11/2026 16:50:51	Dal.QuestionImplementation.Read:	start: id=117
+09/11/2026 16:50:51	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:50:52	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:50:52	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 118, Content = Answer 1 for question 118 }
+09/11/2026 16:50:52	Dal.AnswerImplementation.Create:	end: new ID=136
+09/11/2026 16:50:52	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 118, Content = Answer 2 for question 118 }
+09/11/2026 16:50:52	Dal.AnswerImplementation.Create:	end: new ID=137
+09/11/2026 16:50:52	Dal.QuestionImplementation.Update:	start: Question { Id = 118, Subject = Math, Content = Question 19, CorrectAnswerId = 136 }
+09/11/2026 16:50:52	Dal.QuestionImplementation.Read:	start: id=118
+09/11/2026 16:50:52	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:50:52	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:50:52	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 119, Content = Answer 1 for question 119 }
+09/11/2026 16:50:52	Dal.AnswerImplementation.Create:	end: new ID=138
+09/11/2026 16:50:52	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 119, Content = Answer 2 for question 119 }
+09/11/2026 16:50:52	Dal.AnswerImplementation.Create:	end: new ID=139
+09/11/2026 16:50:52	Dal.QuestionImplementation.Update:	start: Question { Id = 119, Subject = Geography, Content = Question 20, CorrectAnswerId = 138 }
+09/11/2026 16:50:52	Dal.QuestionImplementation.Read:	start: id=119
+09/11/2026 16:50:52	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:50:52	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:50:52	Dal.TestImplementation.ReadAll:	start
+09/11/2026 16:50:52	Dal.TestImplementation.ReadAll:	end: count=5
+09/11/2026 16:50:52	Dal.StudentImplementation.Create:	start: Student { Id = 1000, Name = Student 1, TestId = 100, Mark = 0 }
+09/11/2026 16:50:52	Dal.StudentImplementation.Read:	start: id=1000
+09/11/2026 16:50:52	Dal.StudentImplementation.Read:	end: not found
+09/11/2026 16:50:52	Dal.StudentImplementation.Create:	end: id=1000
+09/11/2026 16:50:52	Dal.StudentImplementation.Create:	start: Student { Id = 1001, Name = Student 2, TestId = 101, Mark = 0 }
+09/11/2026 16:50:52	Dal.StudentImplementation.Read:	start: id=1001
+09/11/2026 16:50:52	Dal.StudentImplementation.Read:	end: not found
+09/11/2026 16:50:52	Dal.StudentImplementation.Create:	end: id=1001
+09/11/2026 16:50:52	Dal.StudentImplementation.Create:	start: Student { Id = 1002, Name = Student 3, TestId = 102, Mark = 0 }
+09/11/2026 16:50:52	Dal.StudentImplementation.Read:	start: id=1002
+09/11/2026 16:50:52	Dal.StudentImplementation.Read:	end: not found
+09/11/2026 16:50:52	Dal.StudentImplementation.Create:	end: id=1002
+09/11/2026 16:50:52	Dal.StudentImplementation.Create:	start: Student { Id = 1003, Name = Student 4, TestId = 103, Mark = 0 }
+09/11/2026 16:50:52	Dal.StudentImplementation.Read:	start: id=1003
+09/11/2026 16:50:52	Dal.StudentImplementation.Read:	end: not found
+09/11/2026 16:50:52	Dal.StudentImplementation.Create:	end: id=1003
+09/11/2026 16:50:52	Dal.StudentImplementation.Create:	start: Student { Id = 1004, Name = Student 5, TestId = 104, Mark = 0 }
+09/11/2026 16:50:52	Dal.StudentImplementation.Read:	start: id=1004
+09/11/2026 16:50:52	Dal.StudentImplementation.Read:	end: not found
+09/11/2026 16:50:52	Dal.StudentImplementation.Create:	end: id=1004
+09/11/2026 16:50:52	Dal.StudentImplementation.ReadAll:	start
+09/11/2026 16:50:52	Dal.StudentImplementation.ReadAll:	end: count=5
+09/11/2026 16:50:52	Dal.QuestionImplementation.ReadAll:	start
+09/11/2026 16:50:52	Dal.QuestionImplementation.ReadAll:	end: count=20
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1000, TestId = 100, QuestionId = 100, AnswerSelectedId = 0 }
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	end: studentId=1000
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1000, TestId = 100, QuestionId = 101, AnswerSelectedId = 0 }
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	end: studentId=1000
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1000, TestId = 100, QuestionId = 102, AnswerSelectedId = 0 }
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	end: studentId=1000
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1000, TestId = 100, QuestionId = 103, AnswerSelectedId = 0 }
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	end: studentId=1000
+09/11/2026 16:50:52	Dal.QuestionImplementation.ReadAll:	start
+09/11/2026 16:50:52	Dal.QuestionImplementation.ReadAll:	end: count=20
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1001, TestId = 101, QuestionId = 100, AnswerSelectedId = 0 }
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	end: studentId=1001
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1001, TestId = 101, QuestionId = 101, AnswerSelectedId = 0 }
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	end: studentId=1001
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1001, TestId = 101, QuestionId = 102, AnswerSelectedId = 0 }
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	end: studentId=1001
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1001, TestId = 101, QuestionId = 103, AnswerSelectedId = 0 }
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	end: studentId=1001
+09/11/2026 16:50:52	Dal.QuestionImplementation.ReadAll:	start
+09/11/2026 16:50:52	Dal.QuestionImplementation.ReadAll:	end: count=20
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1002, TestId = 102, QuestionId = 100, AnswerSelectedId = 0 }
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	end: studentId=1002
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1002, TestId = 102, QuestionId = 101, AnswerSelectedId = 0 }
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	end: studentId=1002
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1002, TestId = 102, QuestionId = 102, AnswerSelectedId = 0 }
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	end: studentId=1002
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1002, TestId = 102, QuestionId = 103, AnswerSelectedId = 0 }
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	end: studentId=1002
+09/11/2026 16:50:52	Dal.QuestionImplementation.ReadAll:	start
+09/11/2026 16:50:52	Dal.QuestionImplementation.ReadAll:	end: count=20
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1003, TestId = 103, QuestionId = 100, AnswerSelectedId = 0 }
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	end: studentId=1003
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1003, TestId = 103, QuestionId = 101, AnswerSelectedId = 0 }
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	end: studentId=1003
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1003, TestId = 103, QuestionId = 102, AnswerSelectedId = 0 }
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	end: studentId=1003
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1003, TestId = 103, QuestionId = 103, AnswerSelectedId = 0 }
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	end: studentId=1003
+09/11/2026 16:50:52	Dal.QuestionImplementation.ReadAll:	start
+09/11/2026 16:50:52	Dal.QuestionImplementation.ReadAll:	end: count=20
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1004, TestId = 104, QuestionId = 100, AnswerSelectedId = 0 }
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	end: studentId=1004
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1004, TestId = 104, QuestionId = 101, AnswerSelectedId = 0 }
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	end: studentId=1004
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1004, TestId = 104, QuestionId = 102, AnswerSelectedId = 0 }
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	end: studentId=1004
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1004, TestId = 104, QuestionId = 103, AnswerSelectedId = 0 }
+09/11/2026 16:50:52	Dal.QuestionForStudentImplementation.Create:	end: studentId=1004
+09/11/2026 16:51:41	Dal.TestImplementation.Read:	start: id=1
+09/11/2026 16:51:41	Dal.TestImplementation.Read:	end: not found
+09/11/2026 16:51:49	Dal.TestImplementation.Read:	start: id=100
+09/11/2026 16:51:49	Dal.TestImplementation.Read:	end: found
+09/11/2026 16:52:17	Dal.TestImplementation.Create:	start: Test { Id = 100, Subject = Geography, Date = 02/02/2027 00:00:00, CountQuestions = 8 }
+09/11/2026 16:52:17	Dal.TestImplementation.Create:	end: new ID=105
+09/11/2026 16:55:10	Dal.TestImplementation.Create:	start: Test { Id = 0, Subject = Grammar, Date = 01/01/2026 00:00:00, CountQuestions = 4 }
+09/11/2026 16:55:10	Dal.TestImplementation.Create:	end: new ID=100
+09/11/2026 16:55:10	Dal.TestImplementation.Create:	start: Test { Id = 0, Subject = English, Date = 08/01/2026 00:00:00, CountQuestions = 4 }
+09/11/2026 16:55:10	Dal.TestImplementation.Create:	end: new ID=101
+09/11/2026 16:55:10	Dal.TestImplementation.Create:	start: Test { Id = 0, Subject = Math, Date = 15/01/2026 00:00:00, CountQuestions = 4 }
+09/11/2026 16:55:10	Dal.TestImplementation.Create:	end: new ID=102
+09/11/2026 16:55:10	Dal.TestImplementation.Create:	start: Test { Id = 0, Subject = Geography, Date = 22/01/2026 00:00:00, CountQuestions = 4 }
+09/11/2026 16:55:10	Dal.TestImplementation.Create:	end: new ID=103
+09/11/2026 16:55:10	Dal.TestImplementation.Create:	start: Test { Id = 0, Subject = Grammar, Date = 29/01/2026 00:00:00, CountQuestions = 4 }
+09/11/2026 16:55:10	Dal.TestImplementation.Create:	end: new ID=104
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Grammar, Content = Question 1, CorrectAnswerId = 0 }
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	end: new ID=100
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = English, Content = Question 2, CorrectAnswerId = 0 }
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	end: new ID=101
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Math, Content = Question 3, CorrectAnswerId = 0 }
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	end: new ID=102
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Geography, Content = Question 4, CorrectAnswerId = 0 }
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	end: new ID=103
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Grammar, Content = Question 5, CorrectAnswerId = 0 }
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	end: new ID=104
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = English, Content = Question 6, CorrectAnswerId = 0 }
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	end: new ID=105
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Math, Content = Question 7, CorrectAnswerId = 0 }
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	end: new ID=106
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Geography, Content = Question 8, CorrectAnswerId = 0 }
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	end: new ID=107
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Grammar, Content = Question 9, CorrectAnswerId = 0 }
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	end: new ID=108
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = English, Content = Question 10, CorrectAnswerId = 0 }
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	end: new ID=109
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Math, Content = Question 11, CorrectAnswerId = 0 }
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	end: new ID=110
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Geography, Content = Question 12, CorrectAnswerId = 0 }
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	end: new ID=111
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Grammar, Content = Question 13, CorrectAnswerId = 0 }
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	end: new ID=112
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = English, Content = Question 14, CorrectAnswerId = 0 }
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	end: new ID=113
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Math, Content = Question 15, CorrectAnswerId = 0 }
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	end: new ID=114
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Geography, Content = Question 16, CorrectAnswerId = 0 }
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	end: new ID=115
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Grammar, Content = Question 17, CorrectAnswerId = 0 }
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	end: new ID=116
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = English, Content = Question 18, CorrectAnswerId = 0 }
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	end: new ID=117
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Math, Content = Question 19, CorrectAnswerId = 0 }
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	end: new ID=118
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Geography, Content = Question 20, CorrectAnswerId = 0 }
+09/11/2026 16:55:10	Dal.QuestionImplementation.Create:	end: new ID=119
+09/11/2026 16:55:10	Dal.QuestionImplementation.ReadAll:	start
+09/11/2026 16:55:10	Dal.QuestionImplementation.ReadAll:	end: count=20
+09/11/2026 16:55:10	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 100, Content = Answer 1 for question 100 }
+09/11/2026 16:55:10	Dal.AnswerImplementation.Create:	end: new ID=100
+09/11/2026 16:55:10	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 100, Content = Answer 2 for question 100 }
+09/11/2026 16:55:10	Dal.AnswerImplementation.Create:	end: new ID=101
+09/11/2026 16:55:10	Dal.QuestionImplementation.Update:	start: Question { Id = 100, Subject = Grammar, Content = Question 1, CorrectAnswerId = 100 }
+09/11/2026 16:55:10	Dal.QuestionImplementation.Read:	start: id=100
+09/11/2026 16:55:10	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:10	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:10	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 101, Content = Answer 1 for question 101 }
+09/11/2026 16:55:10	Dal.AnswerImplementation.Create:	end: new ID=102
+09/11/2026 16:55:10	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 101, Content = Answer 2 for question 101 }
+09/11/2026 16:55:10	Dal.AnswerImplementation.Create:	end: new ID=103
+09/11/2026 16:55:10	Dal.QuestionImplementation.Update:	start: Question { Id = 101, Subject = English, Content = Question 2, CorrectAnswerId = 102 }
+09/11/2026 16:55:10	Dal.QuestionImplementation.Read:	start: id=101
+09/11/2026 16:55:10	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:10	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:10	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 102, Content = Answer 1 for question 102 }
+09/11/2026 16:55:10	Dal.AnswerImplementation.Create:	end: new ID=104
+09/11/2026 16:55:10	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 102, Content = Answer 2 for question 102 }
+09/11/2026 16:55:10	Dal.AnswerImplementation.Create:	end: new ID=105
+09/11/2026 16:55:10	Dal.QuestionImplementation.Update:	start: Question { Id = 102, Subject = Math, Content = Question 3, CorrectAnswerId = 104 }
+09/11/2026 16:55:10	Dal.QuestionImplementation.Read:	start: id=102
+09/11/2026 16:55:10	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:10	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:10	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 103, Content = Answer 1 for question 103 }
+09/11/2026 16:55:10	Dal.AnswerImplementation.Create:	end: new ID=106
+09/11/2026 16:55:10	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 103, Content = Answer 2 for question 103 }
+09/11/2026 16:55:10	Dal.AnswerImplementation.Create:	end: new ID=107
+09/11/2026 16:55:10	Dal.QuestionImplementation.Update:	start: Question { Id = 103, Subject = Geography, Content = Question 4, CorrectAnswerId = 106 }
+09/11/2026 16:55:10	Dal.QuestionImplementation.Read:	start: id=103
+09/11/2026 16:55:10	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:10	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:10	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 104, Content = Answer 1 for question 104 }
+09/11/2026 16:55:10	Dal.AnswerImplementation.Create:	end: new ID=108
+09/11/2026 16:55:10	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 104, Content = Answer 2 for question 104 }
+09/11/2026 16:55:10	Dal.AnswerImplementation.Create:	end: new ID=109
+09/11/2026 16:55:10	Dal.QuestionImplementation.Update:	start: Question { Id = 104, Subject = Grammar, Content = Question 5, CorrectAnswerId = 108 }
+09/11/2026 16:55:10	Dal.QuestionImplementation.Read:	start: id=104
+09/11/2026 16:55:10	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:10	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:10	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 105, Content = Answer 1 for question 105 }
+09/11/2026 16:55:10	Dal.AnswerImplementation.Create:	end: new ID=110
+09/11/2026 16:55:10	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 105, Content = Answer 2 for question 105 }
+09/11/2026 16:55:10	Dal.AnswerImplementation.Create:	end: new ID=111
+09/11/2026 16:55:10	Dal.QuestionImplementation.Update:	start: Question { Id = 105, Subject = English, Content = Question 6, CorrectAnswerId = 110 }
+09/11/2026 16:55:10	Dal.QuestionImplementation.Read:	start: id=105
+09/11/2026 16:55:10	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:10	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:10	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 106, Content = Answer 1 for question 106 }
+09/11/2026 16:55:10	Dal.AnswerImplementation.Create:	end: new ID=112
+09/11/2026 16:55:10	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 106, Content = Answer 2 for question 106 }
+09/11/2026 16:55:10	Dal.AnswerImplementation.Create:	end: new ID=113
+09/11/2026 16:55:10	Dal.QuestionImplementation.Update:	start: Question { Id = 106, Subject = Math, Content = Question 7, CorrectAnswerId = 112 }
+09/11/2026 16:55:10	Dal.QuestionImplementation.Read:	start: id=106
+09/11/2026 16:55:10	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:10	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:10	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 107, Content = Answer 1 for question 107 }
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	end: new ID=114
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 107, Content = Answer 2 for question 107 }
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	end: new ID=115
+09/11/2026 16:55:11	Dal.QuestionImplementation.Update:	start: Question { Id = 107, Subject = Geography, Content = Question 8, CorrectAnswerId = 114 }
+09/11/2026 16:55:11	Dal.QuestionImplementation.Read:	start: id=107
+09/11/2026 16:55:11	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:11	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 108, Content = Answer 1 for question 108 }
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	end: new ID=116
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 108, Content = Answer 2 for question 108 }
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	end: new ID=117
+09/11/2026 16:55:11	Dal.QuestionImplementation.Update:	start: Question { Id = 108, Subject = Grammar, Content = Question 9, CorrectAnswerId = 116 }
+09/11/2026 16:55:11	Dal.QuestionImplementation.Read:	start: id=108
+09/11/2026 16:55:11	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:11	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 109, Content = Answer 1 for question 109 }
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	end: new ID=118
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 109, Content = Answer 2 for question 109 }
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	end: new ID=119
+09/11/2026 16:55:11	Dal.QuestionImplementation.Update:	start: Question { Id = 109, Subject = English, Content = Question 10, CorrectAnswerId = 118 }
+09/11/2026 16:55:11	Dal.QuestionImplementation.Read:	start: id=109
+09/11/2026 16:55:11	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:11	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 110, Content = Answer 1 for question 110 }
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	end: new ID=120
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 110, Content = Answer 2 for question 110 }
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	end: new ID=121
+09/11/2026 16:55:11	Dal.QuestionImplementation.Update:	start: Question { Id = 110, Subject = Math, Content = Question 11, CorrectAnswerId = 120 }
+09/11/2026 16:55:11	Dal.QuestionImplementation.Read:	start: id=110
+09/11/2026 16:55:11	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:11	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 111, Content = Answer 1 for question 111 }
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	end: new ID=122
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 111, Content = Answer 2 for question 111 }
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	end: new ID=123
+09/11/2026 16:55:11	Dal.QuestionImplementation.Update:	start: Question { Id = 111, Subject = Geography, Content = Question 12, CorrectAnswerId = 122 }
+09/11/2026 16:55:11	Dal.QuestionImplementation.Read:	start: id=111
+09/11/2026 16:55:11	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:11	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 112, Content = Answer 1 for question 112 }
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	end: new ID=124
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 112, Content = Answer 2 for question 112 }
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	end: new ID=125
+09/11/2026 16:55:11	Dal.QuestionImplementation.Update:	start: Question { Id = 112, Subject = Grammar, Content = Question 13, CorrectAnswerId = 124 }
+09/11/2026 16:55:11	Dal.QuestionImplementation.Read:	start: id=112
+09/11/2026 16:55:11	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:11	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 113, Content = Answer 1 for question 113 }
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	end: new ID=126
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 113, Content = Answer 2 for question 113 }
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	end: new ID=127
+09/11/2026 16:55:11	Dal.QuestionImplementation.Update:	start: Question { Id = 113, Subject = English, Content = Question 14, CorrectAnswerId = 126 }
+09/11/2026 16:55:11	Dal.QuestionImplementation.Read:	start: id=113
+09/11/2026 16:55:11	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:11	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 114, Content = Answer 1 for question 114 }
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	end: new ID=128
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 114, Content = Answer 2 for question 114 }
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	end: new ID=129
+09/11/2026 16:55:11	Dal.QuestionImplementation.Update:	start: Question { Id = 114, Subject = Math, Content = Question 15, CorrectAnswerId = 128 }
+09/11/2026 16:55:11	Dal.QuestionImplementation.Read:	start: id=114
+09/11/2026 16:55:11	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:11	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 115, Content = Answer 1 for question 115 }
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	end: new ID=130
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 115, Content = Answer 2 for question 115 }
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	end: new ID=131
+09/11/2026 16:55:11	Dal.QuestionImplementation.Update:	start: Question { Id = 115, Subject = Geography, Content = Question 16, CorrectAnswerId = 130 }
+09/11/2026 16:55:11	Dal.QuestionImplementation.Read:	start: id=115
+09/11/2026 16:55:11	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:11	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 116, Content = Answer 1 for question 116 }
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	end: new ID=132
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 116, Content = Answer 2 for question 116 }
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	end: new ID=133
+09/11/2026 16:55:11	Dal.QuestionImplementation.Update:	start: Question { Id = 116, Subject = Grammar, Content = Question 17, CorrectAnswerId = 132 }
+09/11/2026 16:55:11	Dal.QuestionImplementation.Read:	start: id=116
+09/11/2026 16:55:11	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:11	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 117, Content = Answer 1 for question 117 }
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	end: new ID=134
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 117, Content = Answer 2 for question 117 }
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	end: new ID=135
+09/11/2026 16:55:11	Dal.QuestionImplementation.Update:	start: Question { Id = 117, Subject = English, Content = Question 18, CorrectAnswerId = 134 }
+09/11/2026 16:55:11	Dal.QuestionImplementation.Read:	start: id=117
+09/11/2026 16:55:11	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:11	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 118, Content = Answer 1 for question 118 }
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	end: new ID=136
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 118, Content = Answer 2 for question 118 }
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	end: new ID=137
+09/11/2026 16:55:11	Dal.QuestionImplementation.Update:	start: Question { Id = 118, Subject = Math, Content = Question 19, CorrectAnswerId = 136 }
+09/11/2026 16:55:11	Dal.QuestionImplementation.Read:	start: id=118
+09/11/2026 16:55:11	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:11	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 119, Content = Answer 1 for question 119 }
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	end: new ID=138
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 119, Content = Answer 2 for question 119 }
+09/11/2026 16:55:11	Dal.AnswerImplementation.Create:	end: new ID=139
+09/11/2026 16:55:11	Dal.QuestionImplementation.Update:	start: Question { Id = 119, Subject = Geography, Content = Question 20, CorrectAnswerId = 138 }
+09/11/2026 16:55:11	Dal.QuestionImplementation.Read:	start: id=119
+09/11/2026 16:55:11	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:11	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:11	Dal.TestImplementation.ReadAll:	start
+09/11/2026 16:55:11	Dal.TestImplementation.ReadAll:	end: count=5
+09/11/2026 16:55:11	Dal.StudentImplementation.Create:	start: Student { Id = 1000, Name = Student 1, TestId = 100, Mark = 0 }
+09/11/2026 16:55:11	Dal.StudentImplementation.Read:	start: id=1000
+09/11/2026 16:55:11	Dal.StudentImplementation.Read:	end: not found
+09/11/2026 16:55:11	Dal.StudentImplementation.Create:	end: id=1000
+09/11/2026 16:55:11	Dal.StudentImplementation.Create:	start: Student { Id = 1001, Name = Student 2, TestId = 101, Mark = 0 }
+09/11/2026 16:55:11	Dal.StudentImplementation.Read:	start: id=1001
+09/11/2026 16:55:11	Dal.StudentImplementation.Read:	end: not found
+09/11/2026 16:55:11	Dal.StudentImplementation.Create:	end: id=1001
+09/11/2026 16:55:11	Dal.StudentImplementation.Create:	start: Student { Id = 1002, Name = Student 3, TestId = 102, Mark = 0 }
+09/11/2026 16:55:11	Dal.StudentImplementation.Read:	start: id=1002
+09/11/2026 16:55:11	Dal.StudentImplementation.Read:	end: not found
+09/11/2026 16:55:11	Dal.StudentImplementation.Create:	end: id=1002
+09/11/2026 16:55:11	Dal.StudentImplementation.Create:	start: Student { Id = 1003, Name = Student 4, TestId = 103, Mark = 0 }
+09/11/2026 16:55:11	Dal.StudentImplementation.Read:	start: id=1003
+09/11/2026 16:55:11	Dal.StudentImplementation.Read:	end: not found
+09/11/2026 16:55:11	Dal.StudentImplementation.Create:	end: id=1003
+09/11/2026 16:55:11	Dal.StudentImplementation.Create:	start: Student { Id = 1004, Name = Student 5, TestId = 104, Mark = 0 }
+09/11/2026 16:55:11	Dal.StudentImplementation.Read:	start: id=1004
+09/11/2026 16:55:11	Dal.StudentImplementation.Read:	end: not found
+09/11/2026 16:55:11	Dal.StudentImplementation.Create:	end: id=1004
+09/11/2026 16:55:11	Dal.StudentImplementation.ReadAll:	start
+09/11/2026 16:55:11	Dal.StudentImplementation.ReadAll:	end: count=5
+09/11/2026 16:55:11	Dal.QuestionImplementation.ReadAll:	start
+09/11/2026 16:55:11	Dal.QuestionImplementation.ReadAll:	end: count=20
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1000, TestId = 100, QuestionId = 100, AnswerSelectedId = 0 }
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	end: studentId=1000
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1000, TestId = 100, QuestionId = 101, AnswerSelectedId = 0 }
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	end: studentId=1000
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1000, TestId = 100, QuestionId = 102, AnswerSelectedId = 0 }
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	end: studentId=1000
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1000, TestId = 100, QuestionId = 103, AnswerSelectedId = 0 }
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	end: studentId=1000
+09/11/2026 16:55:11	Dal.QuestionImplementation.ReadAll:	start
+09/11/2026 16:55:11	Dal.QuestionImplementation.ReadAll:	end: count=20
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1001, TestId = 101, QuestionId = 100, AnswerSelectedId = 0 }
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	end: studentId=1001
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1001, TestId = 101, QuestionId = 101, AnswerSelectedId = 0 }
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	end: studentId=1001
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1001, TestId = 101, QuestionId = 102, AnswerSelectedId = 0 }
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	end: studentId=1001
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1001, TestId = 101, QuestionId = 103, AnswerSelectedId = 0 }
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	end: studentId=1001
+09/11/2026 16:55:11	Dal.QuestionImplementation.ReadAll:	start
+09/11/2026 16:55:11	Dal.QuestionImplementation.ReadAll:	end: count=20
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1002, TestId = 102, QuestionId = 100, AnswerSelectedId = 0 }
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	end: studentId=1002
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1002, TestId = 102, QuestionId = 101, AnswerSelectedId = 0 }
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	end: studentId=1002
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1002, TestId = 102, QuestionId = 102, AnswerSelectedId = 0 }
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	end: studentId=1002
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1002, TestId = 102, QuestionId = 103, AnswerSelectedId = 0 }
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	end: studentId=1002
+09/11/2026 16:55:11	Dal.QuestionImplementation.ReadAll:	start
+09/11/2026 16:55:11	Dal.QuestionImplementation.ReadAll:	end: count=20
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1003, TestId = 103, QuestionId = 100, AnswerSelectedId = 0 }
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	end: studentId=1003
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1003, TestId = 103, QuestionId = 101, AnswerSelectedId = 0 }
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	end: studentId=1003
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1003, TestId = 103, QuestionId = 102, AnswerSelectedId = 0 }
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	end: studentId=1003
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1003, TestId = 103, QuestionId = 103, AnswerSelectedId = 0 }
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	end: studentId=1003
+09/11/2026 16:55:11	Dal.QuestionImplementation.ReadAll:	start
+09/11/2026 16:55:11	Dal.QuestionImplementation.ReadAll:	end: count=20
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1004, TestId = 104, QuestionId = 100, AnswerSelectedId = 0 }
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	end: studentId=1004
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1004, TestId = 104, QuestionId = 101, AnswerSelectedId = 0 }
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	end: studentId=1004
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1004, TestId = 104, QuestionId = 102, AnswerSelectedId = 0 }
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	end: studentId=1004
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1004, TestId = 104, QuestionId = 103, AnswerSelectedId = 0 }
+09/11/2026 16:55:11	Dal.QuestionForStudentImplementation.Create:	end: studentId=1004
+09/11/2026 16:55:21	Dal.TestImplementation.Create:	start: Test { Id = 0, Subject = Grammar, Date = 01/01/2026 00:00:00, CountQuestions = 4 }
+09/11/2026 16:55:21	Dal.TestImplementation.Create:	end: new ID=100
+09/11/2026 16:55:21	Dal.TestImplementation.Create:	start: Test { Id = 0, Subject = English, Date = 08/01/2026 00:00:00, CountQuestions = 4 }
+09/11/2026 16:55:21	Dal.TestImplementation.Create:	end: new ID=101
+09/11/2026 16:55:21	Dal.TestImplementation.Create:	start: Test { Id = 0, Subject = Math, Date = 15/01/2026 00:00:00, CountQuestions = 4 }
+09/11/2026 16:55:21	Dal.TestImplementation.Create:	end: new ID=102
+09/11/2026 16:55:21	Dal.TestImplementation.Create:	start: Test { Id = 0, Subject = Geography, Date = 22/01/2026 00:00:00, CountQuestions = 4 }
+09/11/2026 16:55:21	Dal.TestImplementation.Create:	end: new ID=103
+09/11/2026 16:55:21	Dal.TestImplementation.Create:	start: Test { Id = 0, Subject = Grammar, Date = 29/01/2026 00:00:00, CountQuestions = 4 }
+09/11/2026 16:55:21	Dal.TestImplementation.Create:	end: new ID=104
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Grammar, Content = Question 1, CorrectAnswerId = 0 }
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	end: new ID=100
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = English, Content = Question 2, CorrectAnswerId = 0 }
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	end: new ID=101
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Math, Content = Question 3, CorrectAnswerId = 0 }
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	end: new ID=102
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Geography, Content = Question 4, CorrectAnswerId = 0 }
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	end: new ID=103
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Grammar, Content = Question 5, CorrectAnswerId = 0 }
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	end: new ID=104
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = English, Content = Question 6, CorrectAnswerId = 0 }
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	end: new ID=105
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Math, Content = Question 7, CorrectAnswerId = 0 }
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	end: new ID=106
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Geography, Content = Question 8, CorrectAnswerId = 0 }
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	end: new ID=107
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Grammar, Content = Question 9, CorrectAnswerId = 0 }
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	end: new ID=108
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = English, Content = Question 10, CorrectAnswerId = 0 }
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	end: new ID=109
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Math, Content = Question 11, CorrectAnswerId = 0 }
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	end: new ID=110
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Geography, Content = Question 12, CorrectAnswerId = 0 }
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	end: new ID=111
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Grammar, Content = Question 13, CorrectAnswerId = 0 }
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	end: new ID=112
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = English, Content = Question 14, CorrectAnswerId = 0 }
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	end: new ID=113
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Math, Content = Question 15, CorrectAnswerId = 0 }
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	end: new ID=114
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Geography, Content = Question 16, CorrectAnswerId = 0 }
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	end: new ID=115
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Grammar, Content = Question 17, CorrectAnswerId = 0 }
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	end: new ID=116
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = English, Content = Question 18, CorrectAnswerId = 0 }
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	end: new ID=117
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Math, Content = Question 19, CorrectAnswerId = 0 }
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	end: new ID=118
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	start: Question { Id = 0, Subject = Geography, Content = Question 20, CorrectAnswerId = 0 }
+09/11/2026 16:55:21	Dal.QuestionImplementation.Create:	end: new ID=119
+09/11/2026 16:55:21	Dal.QuestionImplementation.ReadAll:	start
+09/11/2026 16:55:21	Dal.QuestionImplementation.ReadAll:	end: count=20
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 100, Content = Answer 1 for question 100 }
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	end: new ID=100
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 100, Content = Answer 2 for question 100 }
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	end: new ID=101
+09/11/2026 16:55:21	Dal.QuestionImplementation.Update:	start: Question { Id = 100, Subject = Grammar, Content = Question 1, CorrectAnswerId = 100 }
+09/11/2026 16:55:21	Dal.QuestionImplementation.Read:	start: id=100
+09/11/2026 16:55:21	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:21	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 101, Content = Answer 1 for question 101 }
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	end: new ID=102
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 101, Content = Answer 2 for question 101 }
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	end: new ID=103
+09/11/2026 16:55:21	Dal.QuestionImplementation.Update:	start: Question { Id = 101, Subject = English, Content = Question 2, CorrectAnswerId = 102 }
+09/11/2026 16:55:21	Dal.QuestionImplementation.Read:	start: id=101
+09/11/2026 16:55:21	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:21	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 102, Content = Answer 1 for question 102 }
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	end: new ID=104
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 102, Content = Answer 2 for question 102 }
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	end: new ID=105
+09/11/2026 16:55:21	Dal.QuestionImplementation.Update:	start: Question { Id = 102, Subject = Math, Content = Question 3, CorrectAnswerId = 104 }
+09/11/2026 16:55:21	Dal.QuestionImplementation.Read:	start: id=102
+09/11/2026 16:55:21	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:21	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 103, Content = Answer 1 for question 103 }
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	end: new ID=106
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 103, Content = Answer 2 for question 103 }
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	end: new ID=107
+09/11/2026 16:55:21	Dal.QuestionImplementation.Update:	start: Question { Id = 103, Subject = Geography, Content = Question 4, CorrectAnswerId = 106 }
+09/11/2026 16:55:21	Dal.QuestionImplementation.Read:	start: id=103
+09/11/2026 16:55:21	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:21	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 104, Content = Answer 1 for question 104 }
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	end: new ID=108
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 104, Content = Answer 2 for question 104 }
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	end: new ID=109
+09/11/2026 16:55:21	Dal.QuestionImplementation.Update:	start: Question { Id = 104, Subject = Grammar, Content = Question 5, CorrectAnswerId = 108 }
+09/11/2026 16:55:21	Dal.QuestionImplementation.Read:	start: id=104
+09/11/2026 16:55:21	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:21	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 105, Content = Answer 1 for question 105 }
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	end: new ID=110
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 105, Content = Answer 2 for question 105 }
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	end: new ID=111
+09/11/2026 16:55:21	Dal.QuestionImplementation.Update:	start: Question { Id = 105, Subject = English, Content = Question 6, CorrectAnswerId = 110 }
+09/11/2026 16:55:21	Dal.QuestionImplementation.Read:	start: id=105
+09/11/2026 16:55:21	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:21	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 106, Content = Answer 1 for question 106 }
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	end: new ID=112
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 106, Content = Answer 2 for question 106 }
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	end: new ID=113
+09/11/2026 16:55:21	Dal.QuestionImplementation.Update:	start: Question { Id = 106, Subject = Math, Content = Question 7, CorrectAnswerId = 112 }
+09/11/2026 16:55:21	Dal.QuestionImplementation.Read:	start: id=106
+09/11/2026 16:55:21	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:21	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 107, Content = Answer 1 for question 107 }
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	end: new ID=114
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 107, Content = Answer 2 for question 107 }
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	end: new ID=115
+09/11/2026 16:55:21	Dal.QuestionImplementation.Update:	start: Question { Id = 107, Subject = Geography, Content = Question 8, CorrectAnswerId = 114 }
+09/11/2026 16:55:21	Dal.QuestionImplementation.Read:	start: id=107
+09/11/2026 16:55:21	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:21	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 108, Content = Answer 1 for question 108 }
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	end: new ID=116
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 108, Content = Answer 2 for question 108 }
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	end: new ID=117
+09/11/2026 16:55:21	Dal.QuestionImplementation.Update:	start: Question { Id = 108, Subject = Grammar, Content = Question 9, CorrectAnswerId = 116 }
+09/11/2026 16:55:21	Dal.QuestionImplementation.Read:	start: id=108
+09/11/2026 16:55:21	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:21	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 109, Content = Answer 1 for question 109 }
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	end: new ID=118
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 109, Content = Answer 2 for question 109 }
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	end: new ID=119
+09/11/2026 16:55:21	Dal.QuestionImplementation.Update:	start: Question { Id = 109, Subject = English, Content = Question 10, CorrectAnswerId = 118 }
+09/11/2026 16:55:21	Dal.QuestionImplementation.Read:	start: id=109
+09/11/2026 16:55:21	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:21	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 110, Content = Answer 1 for question 110 }
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	end: new ID=120
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 110, Content = Answer 2 for question 110 }
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	end: new ID=121
+09/11/2026 16:55:21	Dal.QuestionImplementation.Update:	start: Question { Id = 110, Subject = Math, Content = Question 11, CorrectAnswerId = 120 }
+09/11/2026 16:55:21	Dal.QuestionImplementation.Read:	start: id=110
+09/11/2026 16:55:21	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:21	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 111, Content = Answer 1 for question 111 }
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	end: new ID=122
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 111, Content = Answer 2 for question 111 }
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	end: new ID=123
+09/11/2026 16:55:21	Dal.QuestionImplementation.Update:	start: Question { Id = 111, Subject = Geography, Content = Question 12, CorrectAnswerId = 122 }
+09/11/2026 16:55:21	Dal.QuestionImplementation.Read:	start: id=111
+09/11/2026 16:55:21	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:21	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:21	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 112, Content = Answer 1 for question 112 }
+09/11/2026 16:55:22	Dal.AnswerImplementation.Create:	end: new ID=124
+09/11/2026 16:55:22	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 112, Content = Answer 2 for question 112 }
+09/11/2026 16:55:22	Dal.AnswerImplementation.Create:	end: new ID=125
+09/11/2026 16:55:22	Dal.QuestionImplementation.Update:	start: Question { Id = 112, Subject = Grammar, Content = Question 13, CorrectAnswerId = 124 }
+09/11/2026 16:55:22	Dal.QuestionImplementation.Read:	start: id=112
+09/11/2026 16:55:22	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:22	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:22	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 113, Content = Answer 1 for question 113 }
+09/11/2026 16:55:22	Dal.AnswerImplementation.Create:	end: new ID=126
+09/11/2026 16:55:22	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 113, Content = Answer 2 for question 113 }
+09/11/2026 16:55:22	Dal.AnswerImplementation.Create:	end: new ID=127
+09/11/2026 16:55:22	Dal.QuestionImplementation.Update:	start: Question { Id = 113, Subject = English, Content = Question 14, CorrectAnswerId = 126 }
+09/11/2026 16:55:22	Dal.QuestionImplementation.Read:	start: id=113
+09/11/2026 16:55:22	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:22	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:22	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 114, Content = Answer 1 for question 114 }
+09/11/2026 16:55:22	Dal.AnswerImplementation.Create:	end: new ID=128
+09/11/2026 16:55:22	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 114, Content = Answer 2 for question 114 }
+09/11/2026 16:55:22	Dal.AnswerImplementation.Create:	end: new ID=129
+09/11/2026 16:55:22	Dal.QuestionImplementation.Update:	start: Question { Id = 114, Subject = Math, Content = Question 15, CorrectAnswerId = 128 }
+09/11/2026 16:55:22	Dal.QuestionImplementation.Read:	start: id=114
+09/11/2026 16:55:22	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:22	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:22	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 115, Content = Answer 1 for question 115 }
+09/11/2026 16:55:22	Dal.AnswerImplementation.Create:	end: new ID=130
+09/11/2026 16:55:22	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 115, Content = Answer 2 for question 115 }
+09/11/2026 16:55:22	Dal.AnswerImplementation.Create:	end: new ID=131
+09/11/2026 16:55:22	Dal.QuestionImplementation.Update:	start: Question { Id = 115, Subject = Geography, Content = Question 16, CorrectAnswerId = 130 }
+09/11/2026 16:55:22	Dal.QuestionImplementation.Read:	start: id=115
+09/11/2026 16:55:22	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:22	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:22	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 116, Content = Answer 1 for question 116 }
+09/11/2026 16:55:22	Dal.AnswerImplementation.Create:	end: new ID=132
+09/11/2026 16:55:22	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 116, Content = Answer 2 for question 116 }
+09/11/2026 16:55:22	Dal.AnswerImplementation.Create:	end: new ID=133
+09/11/2026 16:55:22	Dal.QuestionImplementation.Update:	start: Question { Id = 116, Subject = Grammar, Content = Question 17, CorrectAnswerId = 132 }
+09/11/2026 16:55:22	Dal.QuestionImplementation.Read:	start: id=116
+09/11/2026 16:55:22	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:22	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:22	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 117, Content = Answer 1 for question 117 }
+09/11/2026 16:55:22	Dal.AnswerImplementation.Create:	end: new ID=134
+09/11/2026 16:55:22	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 117, Content = Answer 2 for question 117 }
+09/11/2026 16:55:22	Dal.AnswerImplementation.Create:	end: new ID=135
+09/11/2026 16:55:22	Dal.QuestionImplementation.Update:	start: Question { Id = 117, Subject = English, Content = Question 18, CorrectAnswerId = 134 }
+09/11/2026 16:55:22	Dal.QuestionImplementation.Read:	start: id=117
+09/11/2026 16:55:22	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:22	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:22	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 118, Content = Answer 1 for question 118 }
+09/11/2026 16:55:22	Dal.AnswerImplementation.Create:	end: new ID=136
+09/11/2026 16:55:22	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 118, Content = Answer 2 for question 118 }
+09/11/2026 16:55:22	Dal.AnswerImplementation.Create:	end: new ID=137
+09/11/2026 16:55:22	Dal.QuestionImplementation.Update:	start: Question { Id = 118, Subject = Math, Content = Question 19, CorrectAnswerId = 136 }
+09/11/2026 16:55:22	Dal.QuestionImplementation.Read:	start: id=118
+09/11/2026 16:55:22	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:22	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:22	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 119, Content = Answer 1 for question 119 }
+09/11/2026 16:55:22	Dal.AnswerImplementation.Create:	end: new ID=138
+09/11/2026 16:55:22	Dal.AnswerImplementation.Create:	start: Answer { Id = 0, QuestionId = 119, Content = Answer 2 for question 119 }
+09/11/2026 16:55:22	Dal.AnswerImplementation.Create:	end: new ID=139
+09/11/2026 16:55:22	Dal.QuestionImplementation.Update:	start: Question { Id = 119, Subject = Geography, Content = Question 20, CorrectAnswerId = 138 }
+09/11/2026 16:55:22	Dal.QuestionImplementation.Read:	start: id=119
+09/11/2026 16:55:22	Dal.QuestionImplementation.Read:	end: found
+09/11/2026 16:55:22	Dal.QuestionImplementation.Update:	end
+09/11/2026 16:55:22	Dal.TestImplementation.ReadAll:	start
+09/11/2026 16:55:22	Dal.TestImplementation.ReadAll:	end: count=5
+09/11/2026 16:55:22	Dal.StudentImplementation.Create:	start: Student { Id = 1000, Name = Student 1, TestId = 100, Mark = 0 }
+09/11/2026 16:55:22	Dal.StudentImplementation.Read:	start: id=1000
+09/11/2026 16:55:22	Dal.StudentImplementation.Read:	end: not found
+09/11/2026 16:55:22	Dal.StudentImplementation.Create:	end: id=1000
+09/11/2026 16:55:22	Dal.StudentImplementation.Create:	start: Student { Id = 1001, Name = Student 2, TestId = 101, Mark = 0 }
+09/11/2026 16:55:22	Dal.StudentImplementation.Read:	start: id=1001
+09/11/2026 16:55:22	Dal.StudentImplementation.Read:	end: not found
+09/11/2026 16:55:22	Dal.StudentImplementation.Create:	end: id=1001
+09/11/2026 16:55:22	Dal.StudentImplementation.Create:	start: Student { Id = 1002, Name = Student 3, TestId = 102, Mark = 0 }
+09/11/2026 16:55:22	Dal.StudentImplementation.Read:	start: id=1002
+09/11/2026 16:55:22	Dal.StudentImplementation.Read:	end: not found
+09/11/2026 16:55:22	Dal.StudentImplementation.Create:	end: id=1002
+09/11/2026 16:55:22	Dal.StudentImplementation.Create:	start: Student { Id = 1003, Name = Student 4, TestId = 103, Mark = 0 }
+09/11/2026 16:55:22	Dal.StudentImplementation.Read:	start: id=1003
+09/11/2026 16:55:22	Dal.StudentImplementation.Read:	end: not found
+09/11/2026 16:55:22	Dal.StudentImplementation.Create:	end: id=1003
+09/11/2026 16:55:22	Dal.StudentImplementation.Create:	start: Student { Id = 1004, Name = Student 5, TestId = 104, Mark = 0 }
+09/11/2026 16:55:22	Dal.StudentImplementation.Read:	start: id=1004
+09/11/2026 16:55:22	Dal.StudentImplementation.Read:	end: not found
+09/11/2026 16:55:22	Dal.StudentImplementation.Create:	end: id=1004
+09/11/2026 16:55:22	Dal.StudentImplementation.ReadAll:	start
+09/11/2026 16:55:22	Dal.StudentImplementation.ReadAll:	end: count=5
+09/11/2026 16:55:22	Dal.QuestionImplementation.ReadAll:	start
+09/11/2026 16:55:22	Dal.QuestionImplementation.ReadAll:	end: count=20
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1000, TestId = 100, QuestionId = 100, AnswerSelectedId = 0 }
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	end: studentId=1000
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1000, TestId = 100, QuestionId = 101, AnswerSelectedId = 0 }
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	end: studentId=1000
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1000, TestId = 100, QuestionId = 102, AnswerSelectedId = 0 }
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	end: studentId=1000
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1000, TestId = 100, QuestionId = 103, AnswerSelectedId = 0 }
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	end: studentId=1000
+09/11/2026 16:55:22	Dal.QuestionImplementation.ReadAll:	start
+09/11/2026 16:55:22	Dal.QuestionImplementation.ReadAll:	end: count=20
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1001, TestId = 101, QuestionId = 100, AnswerSelectedId = 0 }
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	end: studentId=1001
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1001, TestId = 101, QuestionId = 101, AnswerSelectedId = 0 }
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	end: studentId=1001
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1001, TestId = 101, QuestionId = 102, AnswerSelectedId = 0 }
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	end: studentId=1001
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1001, TestId = 101, QuestionId = 103, AnswerSelectedId = 0 }
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	end: studentId=1001
+09/11/2026 16:55:22	Dal.QuestionImplementation.ReadAll:	start
+09/11/2026 16:55:22	Dal.QuestionImplementation.ReadAll:	end: count=20
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1002, TestId = 102, QuestionId = 100, AnswerSelectedId = 0 }
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	end: studentId=1002
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1002, TestId = 102, QuestionId = 101, AnswerSelectedId = 0 }
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	end: studentId=1002
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1002, TestId = 102, QuestionId = 102, AnswerSelectedId = 0 }
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	end: studentId=1002
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1002, TestId = 102, QuestionId = 103, AnswerSelectedId = 0 }
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	end: studentId=1002
+09/11/2026 16:55:22	Dal.QuestionImplementation.ReadAll:	start
+09/11/2026 16:55:22	Dal.QuestionImplementation.ReadAll:	end: count=20
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1003, TestId = 103, QuestionId = 100, AnswerSelectedId = 0 }
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	end: studentId=1003
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1003, TestId = 103, QuestionId = 101, AnswerSelectedId = 0 }
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	end: studentId=1003
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1003, TestId = 103, QuestionId = 102, AnswerSelectedId = 0 }
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	end: studentId=1003
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1003, TestId = 103, QuestionId = 103, AnswerSelectedId = 0 }
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	end: studentId=1003
+09/11/2026 16:55:22	Dal.QuestionImplementation.ReadAll:	start
+09/11/2026 16:55:22	Dal.QuestionImplementation.ReadAll:	end: count=20
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1004, TestId = 104, QuestionId = 100, AnswerSelectedId = 0 }
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	end: studentId=1004
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1004, TestId = 104, QuestionId = 101, AnswerSelectedId = 0 }
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	end: studentId=1004
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1004, TestId = 104, QuestionId = 102, AnswerSelectedId = 0 }
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	end: studentId=1004
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	start: QuestionForStudent { StudentId = 1004, TestId = 104, QuestionId = 103, AnswerSelectedId = 0 }
+09/11/2026 16:55:22	Dal.QuestionForStudentImplementation.Create:	end: studentId=1004
+09/11/2026 16:55:27	DalTest.Program.ClearOldLogs:	old log folders deleted

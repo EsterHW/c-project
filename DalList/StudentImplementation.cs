@@ -14,6 +14,14 @@ internal class StudentImplementation : IStudent
         MethodBase m = MethodBase.GetCurrentMethod()!;
         LogManager.WriteToLog(m.DeclaringType!.FullName!, m.Name, $"start: {item}");
 
+        // המזהה של תלמיד חייב להיות חיובי.
+        if (item.Id <= 0)
+        {
+            LogManager.WriteToLog(m.DeclaringType!.FullName!, m.Name,
+                $"error: Student ID={item.Id} is not positive");
+            throw new DalDoesNotExistException($"Student with invalid ID={item.Id}: ID must be positive");
+        }
+
         if (Read(item.Id) is not null)
         {
             LogManager.WriteToLog(m.DeclaringType!.FullName!, m.Name,
@@ -40,13 +48,31 @@ internal class StudentImplementation : IStudent
         return result;
     }
 
+    /// <summary>
+    /// מחזיר את האובייקט הראשון שעליו הפונקציה מחזירה true, או null אם אין כזה.
+    /// </summary>
+    public Student? Read(Func<Student, bool> filter)
+    {
+        MethodBase m = MethodBase.GetCurrentMethod()!;
+        LogManager.WriteToLog(m.DeclaringType!.FullName!, m.Name, "start: filter");
 
-    public List<Student> ReadAll()
+        Student? result = DataSource.Students.FirstOrDefault(filter);
+
+        LogManager.WriteToLog(m.DeclaringType!.FullName!, m.Name,
+            $"end: {(result is null ? "not found" : "found")}");
+        return result;
+    }
+
+
+    public List<Student?> ReadAll(Func<Student, bool>? filter = null)
     {
         MethodBase m = MethodBase.GetCurrentMethod()!;
         LogManager.WriteToLog(m.DeclaringType!.FullName!, m.Name, "start");
 
-        List<Student> result = new(DataSource.Students);
+        // ללא סינון - כל הרשימה; עם סינון - רק האיברים שעליהם הפונקציה מחזירה true.
+        List<Student?> result = filter is null
+            ? DataSource.Students.ToList<Student?>()
+            : DataSource.Students.Where(filter).ToList<Student?>();
 
         LogManager.WriteToLog(m.DeclaringType!.FullName!, m.Name, $"end: count={result.Count}");
         return result;
@@ -65,7 +91,8 @@ internal class StudentImplementation : IStudent
             throw new DalDoesNotExistException($"Student with ID={item.Id} does not exist");
         }
 
-        DataSource.Students.RemoveAll(s => s.Id == item.Id);
+        Student? existing = DataSource.Students.First(s => s.Id == item.Id);
+        DataSource.Students.Remove(existing);
         DataSource.Students.Add(item);
 
         LogManager.WriteToLog(m.DeclaringType!.FullName!, m.Name, "end");
@@ -83,7 +110,7 @@ internal class StudentImplementation : IStudent
             throw new DalDoesNotExistException($"Student with ID={id} does not exist");
         }
 
-        DataSource.Students.RemoveAll(s => s.Id == id);
+        DataSource.Students.Remove(DataSource.Students.First(s => s.Id == id));
 
         LogManager.WriteToLog(m.DeclaringType!.FullName!, m.Name, "end");
     }

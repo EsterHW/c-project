@@ -37,7 +37,7 @@ public static class Initialization
     
     private static void CreateAnswers()
     {
-        foreach (Question question in s_dal.Question.ReadAll())
+        foreach (Question? question in s_dal.Question.ReadAll())
         {
             int firstAnswerId = s_dal.Answer.Create(new Answer(0, question.Id, $"Answer 1 for question {question.Id}"));
             s_dal.Answer.Create(new Answer(0, question.Id, $"Answer 2 for question {question.Id}"));
@@ -48,7 +48,7 @@ public static class Initialization
     
     private static void CreateStudents()
     {
-        List<Test> tests = s_dal.Test.ReadAll();
+        List<Test?> tests = s_dal.Test.ReadAll();
         for (int i = 0; i < 5; i++)
         {
             s_dal.Student.Create(new Student(1000 + i, $"Student {i + 1}", tests[i].Id, 0));
@@ -58,10 +58,10 @@ public static class Initialization
     
     private static void CreateQuestionsForStudent()
     {
-        List<Student> students = s_dal.Student.ReadAll();
-        foreach (Student student in students)
+        List<Student?> students = s_dal.Student.ReadAll();
+        foreach (Student? student in students)
         {
-            List<Question> questions = s_dal.Question.ReadAll();
+            List<Question?> questions = s_dal.Question.ReadAll();
             for (int i = 0; i < 4 && i < questions.Count; i++)
             {
                 s_dal.QuestionForStudent.Create(

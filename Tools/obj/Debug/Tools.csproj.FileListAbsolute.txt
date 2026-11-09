@@ -9,3 +9,15 @@ Z:\יד תשפז\בירנבוים הדסה\c#\Tools\obj\Debug\Tools.dll
 Z:\יד תשפז\בירנבוים הדסה\c#\Tools\obj\Debug\refint\Tools.dll
 Z:\יד תשפז\בירנבוים הדסה\c#\Tools\obj\Debug\Tools.pdb
 Z:\יד תשפז\בירנבוים הדסה\c#\Tools\obj\Debug\ref\Tools.dll
+C:\Users\huser\Documents\GitHub\c-project\Tools\bin\Debug\Tools.deps.json
+C:\Users\huser\Documents\GitHub\c-project\Tools\bin\Debug\Tools.dll
+C:\Users\huser\Documents\GitHub\c-project\Tools\bin\Debug\Tools.pdb
+C:\Users\huser\Documents\GitHub\c-project\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huser\Documents\GitHub\c-project\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+C:\Users\huser\Documents\GitHub\c-project\Tools\obj\Debug\Tools.AssemblyInfo.cs
+C:\Users\huser\Documents\GitHub\c-project\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Users\huser\Documents\GitHub\c-project\Tools\obj\Debug\Tools.sourcelink.json
+C:\Users\huser\Documents\GitHub\c-project\Tools\obj\Debug\Tools.dll
+C:\Users\huser\Documents\GitHub\c-project\Tools\obj\Debug\refint\Tools.dll
+C:\Users\huser\Documents\GitHub\c-project\Tools\obj\Debug\Tools.pdb
+C:\Users\huser\Documents\GitHub\c-project\Tools\obj\Debug\ref\Tools.dll

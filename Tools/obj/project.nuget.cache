@@ -1,12 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "t1axRcQzUZQ=",
+  "dgSpecHash": "groIHfR6qyM=",
   "success": true,
-  "projectFilePath": "Z:\\יד תשפז\\בירנבוים הדסה\\c#\\Tools\\Tools.csproj",
+  "projectFilePath": "C:\\Users\\huser\\Documents\\GitHub\\c-project\\Tools\\Tools.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\huser\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.308\\microsoft.net.sdk.compilers.toolset.9.0.308.nupkg.sha512",
-    "C:\\Users\\huser\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
     "C:\\Users\\huser\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\huser\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
     "C:\\Users\\huser\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512"
   ],
   "logs": []

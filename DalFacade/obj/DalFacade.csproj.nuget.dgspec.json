@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\יד תשפז\\בירנבוים הדסה\\c#\\DalFacade\\DalFacade.csproj": {}
+    "C:\\Users\\huser\\Documents\\GitHub\\c-project\\DalFacade\\DalFacade.csproj": {}
   },
   "projects": {
-    "Z:\\יד תשפז\\בירנבוים הדסה\\c#\\DalFacade\\DalFacade.csproj": {
+    "C:\\Users\\huser\\Documents\\GitHub\\c-project\\DalFacade\\DalFacade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\יד תשפז\\בירנבוים הדסה\\c#\\DalFacade\\DalFacade.csproj",
+        "projectUniqueName": "C:\\Users\\huser\\Documents\\GitHub\\c-project\\DalFacade\\DalFacade.csproj",
         "projectName": "DalFacade",
-        "projectPath": "Z:\\יד תשפז\\בירנבוים הדסה\\c#\\DalFacade\\DalFacade.csproj",
+        "projectPath": "C:\\Users\\huser\\Documents\\GitHub\\c-project\\DalFacade\\DalFacade.csproj",
         "packagesPath": "C:\\Users\\huser\\.nuget\\packages\\",
-        "outputPath": "Z:\\יד תשפז\\בירנבוים הדסה\\c#\\DalFacade\\obj\\",
+        "outputPath": "C:\\Users\\huser\\Documents\\GitHub\\c-project\\DalFacade\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,10 +65,6 @@
             {
               "name": "Microsoft.AspNetCore.App.Ref",
               "version": "[8.0.22, 8.0.22]"
-            },
-            {
-              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
-              "version": "[9.0.308, 9.0.308]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\יד תשפז\\בירנבוים הדסה\\c#\\DalList\\DalList.csproj": {}
+    "C:\\Users\\huser\\Documents\\GitHub\\c-project\\DalList\\DalList.csproj": {}
   },
   "projects": {
-    "Z:\\יד תשפז\\בירנבוים הדסה\\c#\\DalFacade\\DalFacade.csproj": {
+    "C:\\Users\\huser\\Documents\\GitHub\\c-project\\DalFacade\\DalFacade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\יד תשפז\\בירנבוים הדסה\\c#\\DalFacade\\DalFacade.csproj",
+        "projectUniqueName": "C:\\Users\\huser\\Documents\\GitHub\\c-project\\DalFacade\\DalFacade.csproj",
         "projectName": "DalFacade",
-        "projectPath": "Z:\\יד תשפז\\בירנבוים הדסה\\c#\\DalFacade\\DalFacade.csproj",
+        "projectPath": "C:\\Users\\huser\\Documents\\GitHub\\c-project\\DalFacade\\DalFacade.csproj",
         "packagesPath": "C:\\Users\\huser\\.nuget\\packages\\",
-        "outputPath": "Z:\\יד תשפז\\בירנבוים הדסה\\c#\\DalFacade\\obj\\",
+        "outputPath": "C:\\Users\\huser\\Documents\\GitHub\\c-project\\DalFacade\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,10 +67,6 @@
               "version": "[8.0.22, 8.0.22]"
             },
             {
-              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
-              "version": "[9.0.308, 9.0.308]"
-            },
-            {
               "name": "Microsoft.NETCore.App.Ref",
               "version": "[8.0.22, 8.0.22]"
             },
@@ -88,14 +84,14 @@
         }
       }
     },
-    "Z:\\יד תשפז\\בירנבוים הדסה\\c#\\DalList\\DalList.csproj": {
+    "C:\\Users\\huser\\Documents\\GitHub\\c-project\\DalList\\DalList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\יד תשפז\\בירנבוים הדסה\\c#\\DalList\\DalList.csproj",
+        "projectUniqueName": "C:\\Users\\huser\\Documents\\GitHub\\c-project\\DalList\\DalList.csproj",
         "projectName": "DalList",
-        "projectPath": "Z:\\יד תשפז\\בירנבוים הדסה\\c#\\DalList\\DalList.csproj",
+        "projectPath": "C:\\Users\\huser\\Documents\\GitHub\\c-project\\DalList\\DalList.csproj",
         "packagesPath": "C:\\Users\\huser\\.nuget\\packages\\",
-        "outputPath": "Z:\\יד תשפז\\בירנבוים הדסה\\c#\\DalList\\obj\\",
+        "outputPath": "C:\\Users\\huser\\Documents\\GitHub\\c-project\\DalList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -117,11 +113,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "Z:\\יד תשפז\\בירנבוים הדסה\\c#\\DalFacade\\DalFacade.csproj": {
-                "projectPath": "Z:\\יד תשפז\\בירנבוים הדסה\\c#\\DalFacade\\DalFacade.csproj"
+              "C:\\Users\\huser\\Documents\\GitHub\\c-project\\DalFacade\\DalFacade.csproj": {
+                "projectPath": "C:\\Users\\huser\\Documents\\GitHub\\c-project\\DalFacade\\DalFacade.csproj"
               },
-              "Z:\\יד תשפז\\בירנבוים הדסה\\c#\\Tools\\Tools.csproj": {
-                "projectPath": "Z:\\יד תשפז\\בירנבוים הדסה\\c#\\Tools\\Tools.csproj"
+              "C:\\Users\\huser\\Documents\\GitHub\\c-project\\Tools\\Tools.csproj": {
+                "projectPath": "C:\\Users\\huser\\Documents\\GitHub\\c-project\\Tools\\Tools.csproj"
               }
             }
           }
@@ -158,10 +154,6 @@
               "version": "[8.0.22, 8.0.22]"
             },
             {
-              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
-              "version": "[9.0.308, 9.0.308]"
-            },
-            {
               "name": "Microsoft.NETCore.App.Ref",
               "version": "[8.0.22, 8.0.22]"
             },
@@ -179,14 +171,14 @@
         }
       }
     },
-    "Z:\\יד תשפז\\בירנבוים הדסה\\c#\\Tools\\Tools.csproj": {
+    "C:\\Users\\huser\\Documents\\GitHub\\c-project\\Tools\\Tools.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\יד תשפז\\בירנבוים הדסה\\c#\\Tools\\Tools.csproj",
+        "projectUniqueName": "C:\\Users\\huser\\Documents\\GitHub\\c-project\\Tools\\Tools.csproj",
         "projectName": "Tools",
-        "projectPath": "Z:\\יד תשפז\\בירנבוים הדסה\\c#\\Tools\\Tools.csproj",
+        "projectPath": "C:\\Users\\huser\\Documents\\GitHub\\c-project\\Tools\\Tools.csproj",
         "packagesPath": "C:\\Users\\huser\\.nuget\\packages\\",
-        "outputPath": "Z:\\יד תשפז\\בירנבוים הדסה\\c#\\Tools\\obj\\",
+        "outputPath": "C:\\Users\\huser\\Documents\\GitHub\\c-project\\Tools\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -240,10 +232,6 @@
             {
               "name": "Microsoft.AspNetCore.App.Ref",
               "version": "[8.0.22, 8.0.22]"
-            },
-            {
-              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
-              "version": "[9.0.308, 9.0.308]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",

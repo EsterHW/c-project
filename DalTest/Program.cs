@@ -147,11 +147,11 @@ internal class Program
     /// <param name="crud">אובייקט הגישה של הישות.</param>
     private static void ReadAll<T>(ICrud<T> crud)
     {
-        List<T> items = crud.ReadAll();
+        List<T?> items = crud.ReadAll();
         if (items.Count == 0)
             Console.WriteLine("The list is empty");
 
-        foreach (T item in items)
+        foreach (T? item in items)
             Console.WriteLine(item);
     }
 

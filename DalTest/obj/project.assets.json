@@ -69,11 +69,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\יד תשפז\\בירנבוים הדסה\\c#\\DalTest\\DalTest.csproj",
+      "projectUniqueName": "C:\\Users\\huser\\Documents\\GitHub\\c-project\\DalTest\\DalTest.csproj",
       "projectName": "DalTest",
-      "projectPath": "Z:\\יד תשפז\\בירנבוים הדסה\\c#\\DalTest\\DalTest.csproj",
+      "projectPath": "C:\\Users\\huser\\Documents\\GitHub\\c-project\\DalTest\\DalTest.csproj",
       "packagesPath": "C:\\Users\\huser\\.nuget\\packages\\",
-      "outputPath": "Z:\\יד תשפז\\בירנבוים הדסה\\c#\\DalTest\\obj\\",
+      "outputPath": "C:\\Users\\huser\\Documents\\GitHub\\c-project\\DalTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -95,14 +95,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "Z:\\יד תשפז\\בירנבוים הדסה\\c#\\DalFacade\\DalFacade.csproj": {
-              "projectPath": "Z:\\יד תשפז\\בירנבוים הדסה\\c#\\DalFacade\\DalFacade.csproj"
+            "C:\\Users\\huser\\Documents\\GitHub\\c-project\\DalFacade\\DalFacade.csproj": {
+              "projectPath": "C:\\Users\\huser\\Documents\\GitHub\\c-project\\DalFacade\\DalFacade.csproj"
             },
-            "Z:\\יד תשפז\\בירנבוים הדסה\\c#\\DalList\\DalList.csproj": {
-              "projectPath": "Z:\\יד תשפז\\בירנבוים הדסה\\c#\\DalList\\DalList.csproj"
+            "C:\\Users\\huser\\Documents\\GitHub\\c-project\\DalList\\DalList.csproj": {
+              "projectPath": "C:\\Users\\huser\\Documents\\GitHub\\c-project\\DalList\\DalList.csproj"
             },
-            "Z:\\יד תשפז\\בירנבוים הדסה\\c#\\Tools\\Tools.csproj": {
-              "projectPath": "Z:\\יד תשפז\\בירנבוים הדסה\\c#\\Tools\\Tools.csproj"
+            "C:\\Users\\huser\\Documents\\GitHub\\c-project\\Tools\\Tools.csproj": {
+              "projectPath": "C:\\Users\\huser\\Documents\\GitHub\\c-project\\Tools\\Tools.csproj"
             }
           }
         }
@@ -137,10 +137,6 @@
           {
             "name": "Microsoft.AspNetCore.App.Ref",
             "version": "[8.0.22, 8.0.22]"
-          },
-          {
-            "name": "Microsoft.Net.Sdk.Compilers.Toolset",
-            "version": "[9.0.308, 9.0.308]"
           },
           {
             "name": "Microsoft.NETCore.App.Host.win-x64",

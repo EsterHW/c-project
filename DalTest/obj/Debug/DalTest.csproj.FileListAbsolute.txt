@@ -46,3 +46,20 @@ Z:\יד תשפז\בירנבוים הדסה\c#\bin\DalTest.pdb
 Z:\יד תשפז\בירנבוים הדסה\c#\DalTest\obj\Debug\DalTest.csproj.Up2Date
 Z:\יד תשפז\בירנבוים הדסה\c#\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
 Z:\יד תשפז\בירנבוים הדסה\c#\DalTest\obj\Debug\ref\DalTest.dll
+C:\Users\huser\Documents\GitHub\c-project\bin\DalTest.exe
+C:\Users\huser\Documents\GitHub\c-project\bin\DalTest.deps.json
+C:\Users\huser\Documents\GitHub\c-project\bin\DalTest.runtimeconfig.json
+C:\Users\huser\Documents\GitHub\c-project\bin\DalTest.dll
+C:\Users\huser\Documents\GitHub\c-project\bin\DalTest.pdb
+C:\Users\huser\Documents\GitHub\c-project\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+C:\Users\huser\Documents\GitHub\c-project\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huser\Documents\GitHub\c-project\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+C:\Users\huser\Documents\GitHub\c-project\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+C:\Users\huser\Documents\GitHub\c-project\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+C:\Users\huser\Documents\GitHub\c-project\DalTest\obj\Debug\DalTest.sourcelink.json
+C:\Users\huser\Documents\GitHub\c-project\DalTest\obj\Debug\DalTest.csproj.Up2Date
+C:\Users\huser\Documents\GitHub\c-project\DalTest\obj\Debug\DalTest.dll
+C:\Users\huser\Documents\GitHub\c-project\DalTest\obj\Debug\refint\DalTest.dll
+C:\Users\huser\Documents\GitHub\c-project\DalTest\obj\Debug\DalTest.pdb
+C:\Users\huser\Documents\GitHub\c-project\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+C:\Users\huser\Documents\GitHub\c-project\DalTest\obj\Debug\ref\DalTest.dll

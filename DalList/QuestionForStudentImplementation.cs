@@ -41,13 +41,31 @@ internal class QuestionForStudentImplementation : IQuestionForStudent
         return result;
     }
 
+    /// <summary>
+    /// מחזיר את האובייקט הראשון שעליו הפונקציה מחזירה true, או null אם אין כזה.
+    /// </summary>
+    public QuestionForStudent? Read(Func<QuestionForStudent, bool> filter)
+    {
+        MethodBase m = MethodBase.GetCurrentMethod()!;
+        LogManager.WriteToLog(m.DeclaringType!.FullName!, m.Name, "start: filter");
 
-    public List<QuestionForStudent> ReadAll()
+        QuestionForStudent? result = DataSource.QuestionsForStudent.FirstOrDefault(filter);
+
+        LogManager.WriteToLog(m.DeclaringType!.FullName!, m.Name,
+            $"end: {(result is null ? "not found" : "found")}");
+        return result;
+    }
+
+
+    public List<QuestionForStudent?> ReadAll(Func<QuestionForStudent, bool>? filter = null)
     {
         MethodBase m = MethodBase.GetCurrentMethod()!;
         LogManager.WriteToLog(m.DeclaringType!.FullName!, m.Name, "start");
 
-        List<QuestionForStudent> result = new(DataSource.QuestionsForStudent);
+        // ללא סינון - כל הרשימה; עם סינון - רק האיברים שעליהם הפונקציה מחזירה true.
+        List<QuestionForStudent?> result = filter is null
+            ? DataSource.QuestionsForStudent.ToList<QuestionForStudent?>()
+            : DataSource.QuestionsForStudent.Where(filter).ToList<QuestionForStudent?>();
 
         LogManager.WriteToLog(m.DeclaringType!.FullName!, m.Name, $"end: count={result.Count}");
         return result;
@@ -66,8 +84,9 @@ internal class QuestionForStudentImplementation : IQuestionForStudent
                 $"Question number {item.QuestionId} of student {item.StudentId} in test {item.TestId} does not exist");
         }
 
-        DataSource.QuestionsForStudent.RemoveAll(q =>
+        QuestionForStudent? existing = DataSource.QuestionsForStudent.First(q =>
             q.StudentId == item.StudentId && q.TestId == item.TestId && q.QuestionId == item.QuestionId);
+        DataSource.QuestionsForStudent.Remove(existing);
         DataSource.QuestionsForStudent.Add(item);
 
         LogManager.WriteToLog(m.DeclaringType!.FullName!, m.Name, "end");
@@ -90,8 +109,13 @@ internal class QuestionForStudentImplementation : IQuestionForStudent
             throw new DalDoesNotExistException($"Student with ID={id} has no questions for students");
         }
 
-        int removed = DataSource.QuestionsForStudent.RemoveAll(q => q.StudentId == id);
-        LogManager.WriteToLog(m.DeclaringType!.FullName!, m.Name, $"removed {removed} rows");
+        // שליפת כל הרשומות של התלמיד ב-LINQ, ואז הסרתן מהרשימה.
+        List<QuestionForStudent> toRemove = DataSource.QuestionsForStudent
+            .Where(q => q.StudentId == id)
+            .ToList();
+        toRemove.ForEach(q => DataSource.QuestionsForStudent.Remove(q));
+
+        LogManager.WriteToLog(m.DeclaringType!.FullName!, m.Name, $"removed {toRemove.Count} rows");
 
         LogManager.WriteToLog(m.DeclaringType!.FullName!, m.Name, "end");
     }
